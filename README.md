@@ -19,3 +19,15 @@ Bienvenue dans le dépôt Yeah-Kids, une application web dédiée à l’éducat
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php\&logoColor=white)                      | Logique côté serveur          |
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)                | Base de données relationnelle |
 | ![Symfony](https://img.shields.io/badge/Symfony-Black?logo=symfony\&logoColor=white)           | Framework PHP                 |
+
+🚀 Installation
+Clonez ce dépôt sur votre machine locale :
+git clone https://github.com/Mohaameed1/Yeah-Kids.git
+
+👨‍💻 Auteur
+Mohaameed1
+
+🙏 Remerciements
+Merci à la communauté open-source, Symfony, et tous les contributeurs pour leur soutien.
+
+
